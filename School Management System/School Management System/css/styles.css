@@ -1,0 +1,16 @@
+#header{
+  background: #555555;
+  color: white;
+  padding: 20px;
+}
+#login_section{
+  margin-top: 35px;
+}
+#login_form{
+  border: 1px solid black;
+  padding: 15px;
+  background: whitesmoke;
+}
+#card_row{
+  margin-left: 25px;
+}
